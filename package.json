@@ -1,0 +1,19 @@
+{
+  "name": "legendary-meme",
+  "version": "1.0.0",
+  "description": "Practical tasks for JavaScript interview",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xanderrybalov/legendary-meme.git"
+  },
+  "author": "Oleksandr Xander Rybalov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xanderrybalov/legendary-meme/issues"
+  },
+  "homepage": "https://github.com/xanderrybalov/legendary-meme#readme"
+}
